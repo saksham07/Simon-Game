@@ -1,2 +1,2 @@
-# Dice-Game
-Game on dice
+# Simon-Game
+Game
